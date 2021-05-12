@@ -27,4 +27,5 @@ main {
   border-radius: 5px;
   border: none;
   background-color: silver;
+  box-shadow: rgb(0 0 0 / 5%) 0px 8px 40px;
 }
