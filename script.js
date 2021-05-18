@@ -10,6 +10,7 @@ function fuck() {
   }
 
   body.backgroundColor = shit;
+  console.log(shit);
 }
 
 button.addEventListener("click", fuck);
